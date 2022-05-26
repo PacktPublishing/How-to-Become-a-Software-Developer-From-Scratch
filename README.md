@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/V17587?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # How to Become a Software Developer From Scratch
 
 This project contains source code for my on-line course [How to Become a Software Developer From Scratch](https://www.udemy.com/course/how-to-become-a-software-developer-from-scratch/?referralCode=FDFA9FC121D27830A15E).
