@@ -15,7 +15,3 @@ This project contains source code for my on-line course [How to Become a Softwar
 1. Module 5, *Advanced Software Development*
     1. Section 5, *Programming Task*: [Electricity Plans](M5S5_ElectricityPlans)
     1. Section 6, *More Fun with Refactoring, IDE, and Testing*: [Electricity Plans Improved](M5S6_ElectricityPlansImproved)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781801812566">https://packt.link/free-ebook/9781801812566 </a> </p>
